@@ -21,7 +21,7 @@ Fundraising Proposal Assistant is a customized experience for the Microsoft Clou
 
 ## Manual Solution Installation
 
-1. Before installing the solution, make sure you have the solution file in your machine. (See the "Releases" optiuon available on the right panel)
+1. Before installing the solution, make sure you have the solution file in your machine. (Select one of the files available on the "Releases" option on the right panel)
 2. Go to the maker portal https://make.powerapps.com/
 3. On the top right, select the environment where you want to install the solution
 4. On the left navigation pane, click Solutions and Import solution
