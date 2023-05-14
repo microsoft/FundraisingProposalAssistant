@@ -25,10 +25,16 @@ Fundraising Proposal Assistant is a customized experience for the Microsoft Clou
 2. Go to the maker portal https://make.powerapps.com/
 3. On the top right, select the environment where you want to install the solution
 4. On the left navigation pane, click Solutions and Import solution
-5. The import process will ask you to reestablish a connection. A connection is needed for the Power Automate Flow that is part of the solution. This connection provides access to the org-based database on Microsoft Dataverse in current environment. If a connection already exists, you can select it from the dropdown and you can jump to step 12. In case there are no connections, Click the dropdown next to the connection reference and click New Connection
-6. Click Create and pick an account or log in with an account that has access to the current Dataverse Environment
-7. Refresh and select the newly created connection from the dropdown next to the connection reference
-8. Paste your API key from OpenAI on the Environment Variable OpenAI API Key and click Import
+5. Click Import solution
+6. Browse to the location of the solution file downloaded at step 1 and click Next
+7. On the confirmation window click Next
+8. The import process will ask you to reestablish a connection. A connection is needed for the Power Automate Flow that is part of the solution. This connection provides access to the org-based database on Microsoft Dataverse in current environment. If a connection already exists, you can select it from the dropdown and you can jump to step 12. In case there are no connections, Click the dropdown next to the connection reference and click New Connection.
+9. A new window will open to create the connection. On the dialog, click Create
+10. Pick an account or log in with an account that has access to the current Dataverse Environment
+11. After creating the connection, go back to the previous window and click Refresh on the dialog shown. That will refresh the connections dropdown.
+12. Select the newly created connection from the dropdown next to the connection reference and click Next.
+13. Paste your API key from OpenAI on the Environment Variable OpenAI API Key and click Import. (to get an OpenAI API key see section Set up an OpenAI API Key)
+14. Wait until the import process completes.
 
 
 ## Developer Notes
