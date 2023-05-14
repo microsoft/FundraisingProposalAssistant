@@ -44,7 +44,7 @@ The following guidelines will show how to use the predeveloped solution:
 1. Go to your organization’s Dynamics 365 CRM portal (e.g. https://organizationid.crm.dynamics.com).
 2. From the list of apps, select the Fundraising and Engagement model-driven app.
 3. From the navigation pane, select Opportunities, and open an existing opportunity record.
-4. To draft a Fundraising Proposal Letter, click on the Draft Proposal button inside the opportunity form.
+4. To draft a Fundraising Proposal Letter, click on the **Write Proposal** button inside the opportunity form.
 5. A side panel dialog shows, which allows to add more guidance or context before sending the data to OpenAI. Some examples of Additional Guidance for OpenAI include:
 - “The letter should be written as if It was written by John Smith (Fundraising Director of ABC Organization)”.
 -  “The proposal must be written in Spanish”.
